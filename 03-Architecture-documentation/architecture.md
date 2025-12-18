@@ -32,4 +32,3 @@ ReUseIt uses a modular, microservices-inspired architecture:
 2. Run: `pnpm install` in project root
 3. Start backend: `pnpm --filter backend run start:dev`
 4. Start mobile: `pnpm --filter mobile run start`
-5. See README.md for details

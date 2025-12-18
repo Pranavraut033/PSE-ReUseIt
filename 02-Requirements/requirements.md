@@ -25,10 +25,10 @@
 - **Recyclable Items**: Items that can be processed and reused
 - **Image Recognition**: AI-based waste identification
 - **Community Engagement**: User interaction (posts, events, chat)
-+- **TensorFlow Lite**: ML framework for mobile
-+- **GraphQL**: API query language
-+- **React Native**: Mobile app framework
-+- **NestJS**: Backend framework
-+- **MongoDB**: Database
-+- **Google Maps API**: Location services
-+- **Gamification**: Points, badges, leaderboards
+- **TensorFlow Lite**: ML framework for mobile
+- **GraphQL**: API query language
+- **React Native**: Mobile app framework
+- **NestJS**: Backend framework
+- **MongoDB**: Database
+- **Google Maps API**: Location services
+- **Gamification**: Points, badges, leaderboards
